@@ -1,16 +1,40 @@
-# s_apparels_clothes
+# 🛍️ Flutter Demo E-commerce UI
 
-A new Flutter project.
+A **Demo E-commerce UI application built using Flutter**.  
+This project showcases a clean and modern e-commerce interface with product listing, product details, and shopping cart UI (demo only, no backend).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Home screen with product categories  
+- Product listing with images and prices  
+- Product detail screen  
+- Shopping cart UI (demo only)  
+- Responsive layout for mobile devices  
+- Modern and clean UI using Material Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter  
+- Dart  
+- Material Design Widgets  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed  
+- Android Studio / VS Code  
+- Emulator or physical device  
+
+---
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
