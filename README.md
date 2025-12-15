@@ -37,4 +37,4 @@ This project showcases a clean and modern e-commerce interface with product list
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Shalini-Dev-Analyst/Demo_Clothing_app_UI_Flutter.git.git
